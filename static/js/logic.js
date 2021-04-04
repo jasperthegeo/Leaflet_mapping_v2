@@ -83,7 +83,7 @@ function createMap(data, plates) {
   var baseMaps = {
     "Satellite": satellite,
     "Streets": streets,
-    "dark": Dark
+    "Dark": dark
   };
 
   var overlayMaps = {
