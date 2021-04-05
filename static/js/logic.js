@@ -66,7 +66,7 @@ function createMap(data, plates) {
     tileSize: 512,
     maxZoom: 18,
     zoomOffset: -1,
-    id: "mapbox/satellite-v11",
+    id: "mapbox/satellite-v9",
     accessToken: API_KEY
   });
 
